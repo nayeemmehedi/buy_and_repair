@@ -1,0 +1,14 @@
+.six{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 60%;
+    background-color:aquamarine;
+    color: black;
+    
+    
+}
+.newsix{
+    border-radius: 0 70px 0 70px;
+}
